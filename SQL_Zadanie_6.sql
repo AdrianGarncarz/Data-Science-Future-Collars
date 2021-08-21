@@ -1,5 +1,4 @@
 
-
 -- 1. Załóż bazę o nazwie: Moje zainteresowania.
 CREATE DATABASE Moje_zainteresowania;
 USE Moje_zainteresowania;
@@ -40,7 +39,7 @@ UPDATE Zainteresowanie SET Data_realizacji = '2021-08-23' WHERE ID = 4;
 SELECT * FROM Zainteresowanie;
 
 -- 9. Usuń wszystkie wiersze, w których jakaś z pozycji jest pusta.
-DELETE FROM Zainteresowanie WHERE Data_realizacji = NULL;
+DELETE FROM Zainteresowanie WHERE Data_realizacji IS NULL;
 
 -- 10. Sprawdź, czy dane zostały zmienione.
 SELECT * FROM Zainteresowanie;
