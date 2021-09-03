@@ -40,10 +40,10 @@ INSERT INTO Pracownicy (Imie, Nazwisko, Wiek, Kurs) VALUES
   ('Ewa','WOŹNIAK',31,NULL);
 
 -- 4. Wyświetl listę pracowników wg kolumny Imię, eliminując powtarzające się pozycje.
-SELECT DISTINCT * FROM Pracownicy GROUP BY Imie;
+SELECT DISTINCT Imie FROM Pracownicy;
 
 -- 5. Wyświetl listę pracowników wg kolumny Nazwisko eliminując powtarzające się pozycje.
-SELECT * FROM Pracownicy GROUP BY Nazwisko ORDER BY Nazwisko ASC;
+SELECT DISTINCT Nazwisko FROM Pracownicy ORDER BY Nazwisko ASC;
 
 -- 6. Wyświetl kursy prowadzone przez pracowników o Nazwisku: „Kowalczyk”.
 SELECT Kurs FROM Pracownicy WHERE Nazwisko = 'Kowalczyk';
