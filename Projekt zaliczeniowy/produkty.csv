@@ -1,0 +1,21 @@
+Nazwa producenta;Nazwa produktu;Opis produktu;Zakup netto;Zakup brutto;Sprzedaż netto;Sprzedaż brutto;VAT
+Fashion;Spodnie;Bawełniane;100;123;250;307,5;23
+Bargains;Spodnie;Jeansowe;50;61,5;120;147,6;23
+Essentials;Spodnie;Podstawowy krój;75;92,25;160;196,8;23
+Pinky;Spodnie;Różowe;100;123;220;270,6;23
+Fashion;Koszulka;100% bawełna;50;61,5;100;123;23
+Bargains;Koszulka;Tkanina funkcyjna;70;86,1;140;172,2;23
+Essentials;Koszulka;Z nadrukiem do wyboru;60;73,8;140;172,2;23
+Pinky;Koszulka;100% bawełna;50;61,5;100;123;23
+Fashion;Sukienka;Wieczorowa;500;615;1300;1599;23
+Bargains;Sukienka;Codzienna;150;184,5;320;393,6;23
+Essentials;Sukienka;Tylko czarna;300;369;580;713,4;23
+Pinky;Sukienka;Różowa;130;159,9;300;369;23
+Fashion;Spódnica;Do kolan;60;73,8;180;221,4;23
+Bargains;Spódnica;Wełniana;80;98,4;190;233,7;23
+Essentials;Spódnica;Krój „A”;120;147,6;250;307,5;23
+Pinky;Spódnica;Różowa;120;147,6;250;307,5;23
+Fashion;Sweter;Ręcznie robiony;500;615;680;836,4;23
+Bargains;Bluza;Bawełniana;130;159,9;270;332,1;23
+Essentials;Bluza;Ciepła;80;98,4;170;209,1;23
+Pinky;Bluza;Różowa;110;135,3;240;295,2;23
